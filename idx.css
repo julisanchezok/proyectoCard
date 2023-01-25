@@ -1,0 +1,43 @@
+.resolucion{
+    width: 100%;
+    max-width: 1440px;
+}
+
+@media (max-width:375px)
+{
+
+}
+@media (min-width:1440px)
+{
+
+}
+
+
+img{
+    float: left;
+}
+
+body{
+    font-size: 14px;
+    background-color: hsl(30, 38%, 92%);
+}
+
+div{
+    margin: 8px;
+    padding: 10px;
+    height: 70px;
+    width: 800px;
+    text-align: left;
+}
+#perf{
+    font-family: 'Monserrat';
+    font-weight: 500;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    color: hsl(228, 12%, 48%);
+}
+h2{
+    font-family: 'Fraunces';
+    font-weight: 700;
+    color: hsl(212, 21%, 14%);
+}
